@@ -1,0 +1,42 @@
+.error{
+    color: #D04FC1;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    
+    
+}
+
+h1{
+    color: #D04F91;
+    text-decoration: underline;
+    text-decoration: bold;
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 80px;
+}
+
+form{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+
+h2{
+    color:#FFA07A;
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+}
+
+.result{
+   color:#FFA07A; 
+   font-style: italic;
+   font-family: "Times New Roman", Times, serif;
+   font-size: 25px;
+   
+}
+
